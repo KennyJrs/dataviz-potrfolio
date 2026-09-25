@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Аналіз моєї статистики у грі Dota 2"
 wide: true
 ---
