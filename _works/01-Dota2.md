@@ -6,7 +6,10 @@ title: "Аналіз моєї статистики у грі Dota 2"
 
 На всі ці питання я і постараюсь дати відповідь :)
 
-![Підпис під графіком](https://public.tableau.com/app/profile/marharyta.stychuk/viz/Final_Project_Final_17888177687610/TotalResults "wide 1400")
+Але, для початку, швидко розкажу звідки взято дані, оскільки сама гра чи Steam-клієнт не дозволяють напряму вигрузити ці дані.
+Дані завантажено по API сервісу [Stratz.com](https://stratz.com/). Далі було написано Python-код, який дозволив швидко і зручно робити запити на сервер і зберігти їх у файлі з розширенням .csv.
+
+![Графік моєї статистики Dota 2](https://public.tableau.com/app/profile/marharyta.stychuk/viz/Final_Project_Final_17888177687610/TotalResults "wide 1400")
 
 **Рішення:** що ви вирішили і чому.
 
