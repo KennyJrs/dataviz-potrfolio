@@ -13,7 +13,7 @@ height: true
 Дані завантажено по API сервісу [Stratz.com](https://stratz.com/). Далі було написано Python-код, який дозволив швидко і зручно робити запити на сервер і зберігти їх у файлі з розширенням .csv.
 Дашборд зроблено за допомогою Tableau Public.
 
-![Графік моєї статистики Dota 2](https://public.tableau.com/app/profile/marharyta.stychuk/viz/Final_Project_Final_17888177687610/TotalResults "wide: true")
+![Графік моєї статистики Dota 2](https://public.tableau.com/app/profile/marharyta.stychuk/viz/Final_Project_Final_17888177687610/TotalResults)
 
 **Рішення.**
 Для відповіді на питання про загальну статистику було вирішено зробити **дашборд**.

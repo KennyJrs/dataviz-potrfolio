@@ -6,7 +6,7 @@ wide: true
 
 **Питання:** Так як я в цьому році знову змінила роль, на якій граю, то мені стало цікаво порівняти мою статистику матчів по ролях. Чи відрізняються матчі, які я зіграла, як Support, від матчів, зіграних на Offlane.
 
-![Графік моєї статистики Dota 2](https://public.tableau.com/app/profile/marharyta.stychuk/viz/Final_Project_Final_17888177687610/RoleResults "wide: true")
+![Графік моєї статистики Dota 2](https://public.tableau.com/app/profile/marharyta.stychuk/viz/Final_Project_Final_17888177687610/RoleResults)
 
 **Рішення.**
 Для відповіді на питання було вирішено побудувати розділену на 2 частини сторінку. Кожна сторінка має свої власні фільтри, котрі фільтрують тільки вибрані графіки.
