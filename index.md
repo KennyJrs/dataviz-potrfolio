@@ -1,6 +1,7 @@
 ---
 show_tagline: true
 charts: true
+wide: true
 ---
 
 {%- for work in site.works %}
