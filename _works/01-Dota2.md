@@ -6,7 +6,7 @@ title: "Аналіз моєї статистики у грі Dota 2"
 
 На всі ці питання я і постараюсь дати відповідь :)
 
-![Підпис під графіком](https://public.tableau.com/app/profile/marharyta.stychuk/viz/Final_Project_Final_17888177687610/TotalResults "wide 1700")
+![Підпис під графіком](https://public.tableau.com/app/profile/marharyta.stychuk/viz/Final_Project_Final_17888177687610/TotalResults "wide 1400")
 
 **Рішення:** що ви вирішили і чому.
 
